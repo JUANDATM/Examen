@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="nombre_estudiante">Nombre Estudiante</string>
+    <string name="calificacion_1">Calificacion 1:</string>
+    <string name="calificacion_2">Calificacion 2:</string>
+    <string name="calificacion_3">Calificacion 3:</string>
+    <string name="calificacion_4">Calificacion 4 :</string>
+    <string name="nombre">Nombre</string>
+    <string name="cal1">Calificacion 1</string>
+    <string name="numero_de_control">Numero de Control</string>
+    <string name="cal2">Calificacion 2</string>
+    <string name="cal3">Calificacion 3</string>
+    <string name="cal4">Calificacion 4</string>
+    <string name="calcular">Calcular</string>
+    <string name="NumeroControl">no control</string>
+</resources>

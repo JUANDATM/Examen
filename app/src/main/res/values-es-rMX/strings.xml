@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">examen</string>
+    <string name="NumeroControl">no control</string>
+    <string name="cal1">calification 1</string>
+    <string name="cal2">Calidication 2</string>
+    <string name="cal3">Calification 3</string>
+    <string name="cal4">Calification 4</string>
+    <string name="calcular">Calculate</string>
+    <string name="calificacion_1">calification 1</string>
+    <string name="calificacion_2">calification 2</string>
+    <string name="calificacion_3">calification 3</string>
+    <string name="calificacion_4">calification 4</string>
+    <string name="nombre">Name</string>
+    <string name="nombre_estudiante">Student Name</string>
+</resources>
